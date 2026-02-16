@@ -47,7 +47,7 @@ export default function Footer() {
                   href="#"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
-                  Steam
+                  Epic Games
                 </a>
               </div>
             </div>
