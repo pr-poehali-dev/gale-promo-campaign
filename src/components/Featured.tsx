@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const games = [
-  { id: 1, title: "Void Horizon", genre: "Action RPG", color: "from-purple-900 to-indigo-800" },
+  { id: 1, title: "Catalepsy", genre: "Action RPG", color: "from-purple-900 to-indigo-800" },
   { id: 2, title: "Neon Drift", genre: "Racing", color: "from-cyan-900 to-blue-800" },
   { id: 3, title: "Iron Pulse", genre: "Sci-Fi Shooter", color: "from-red-900 to-orange-800" },
   { id: 4, title: "Silent Epoch", genre: "Horror", color: "from-gray-900 to-neutral-800" },
@@ -17,8 +17,8 @@ export default function Featured() {
       <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0">
         <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
           <img
-            src="https://cdn.poehali.dev/projects/3af8de81-e2d5-4d25-8027-112b33ed7415/files/4a7dbbf5-3152-4540-ac22-ffcf610b80ee.jpg"
-            alt="Game development studio"
+            src="https://cdn.poehali.dev/projects/3af8de81-e2d5-4d25-8027-112b33ed7415/files/e42f32a4-e987-455f-925c-34d1e35fd6d8.jpg"
+            alt="Mysterious cave with bioluminescence"
             className="w-full h-full object-cover"
           />
         </div>

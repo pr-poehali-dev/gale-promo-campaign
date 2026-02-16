@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/3af8de81-e2d5-4d25-8027-112b33ed7415/files/c1c8e357-3087-4194-a740-8d8a828c1211.jpg"
-          alt="Epic game landscape"
+          src="https://cdn.poehali.dev/projects/3af8de81-e2d5-4d25-8027-112b33ed7415/files/a8554f5a-d0f4-4a86-8cbd-2d973b623732.jpg"
+          alt="Mysterious ancient ruins"
           className="w-full h-full object-cover"
         />
       </motion.div>
